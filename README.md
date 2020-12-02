@@ -12,13 +12,14 @@ Instructions:
 2. configure it to send messages to the server address/port number shown below.
 
 
-Apps:
-Android: 
+Android apps: 
 + Sensors2OSC (recommended, not on Play Store, can be freely downloaded from here, https://sensors2.org/osc/)
 - oscHook (free, https://play.google.com/store/apps/details?id=com.hollyhook.oscHook&hl=en_US&gl=US)
 - OSC Controller (free, https://play.google.com/store/apps/details?id=com.ffsmultimedia.osccontroller)
-iOs:
+
+iOs apps:
 - GyrOSC (0.99$, https://apps.apple.com/us/app/gyrosc/id418751595) 
+
 Both Android and iOs:
 - TouchOSC (4.99$, https://hexler.net/products/touchosc)
 
